@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAz8///PzMzMzPzERE/MzMzM/PxHz8zMzMz8/EfP/P/PzPzERE/MzP/M/P//z8zM/MzM/M/MzMz8zMz8z8zMzPzMzPzPzMzM/MzM/M/MzMz8zPz//8/MzPzM/MRET8zM/8z8/EfP/P/PzPz8R8/MzMzM/MRET8zM/Mz8///PzMzMw==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "kerby"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
